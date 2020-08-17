@@ -412,6 +412,8 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .mb-border-pale-red,.mb-hover-border-pale-red:hover{border-color:#ffe7e7!important}.mb-border-pale-green,.mb-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .mb-border-pale-yellow,.mb-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.mb-border-pale-blue,.mb-hover-border-pale-blue:hover{border-color:#e7ffff!important}
 
+.mb-content-cookies{width:80%;border:2px solid red;position:fixed;top:20%;left:10%;z-index:9999}
+
 #emergenteRGPD{opacity:0.8;}
 
 
